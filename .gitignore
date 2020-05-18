@@ -1,0 +1,5 @@
+.PS-Store
+.LSOverride
+.vs
+node_modules/
+app/css/
